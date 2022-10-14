@@ -1,0 +1,17 @@
+{
+    "name": "maria/php_quete_12-composer1",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "t-aguirre",
+            "email": "tala.aguirre@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.4"
+    }
+}
